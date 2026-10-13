@@ -4,18 +4,12 @@ Maker Media GmbH
 
 ***
 
-# Projektname
+# Optimale Lichtverhältnisse
 
-## Erklärende Unterzeile (optional)
-
-**Vorspann aus dem Heft**
+**Für eine gleichmäßige Ausleuchtung reicht eine einzelne Lichtquelle oft nicht aus. Ich habe mir deshalb eine Deckenleuchte aus sechs einzeln schaltbaren LED-Röhren gebaut, die sich verschieben und sogar abnehmen lassen.**
 
 ![Aufmacherbild aus dem Heft](./doc/Aufmacher.JPG)
 
-## Wer den Aufmacher skalieren muss:
-<img src="./doc/Aufmacher.JPG" width="50%" height="50%">
+Hier liegen die 3D-Druckdaten für den Schaltkasten.
 
-Hier gibt es !!! ein Template für die README.md in Github. Das Aufmacherbild sowie weitere Doku soll in den Ordner _doc_. Bitte für andere Dateien sinnvolle Ordner anlegen, etwa _src_ oder _cad_.
-ISSUES UND WIKI DEAKTIVIEREN NICHT VERGESSEN.
-
-Der vollständige Artikel zum Projekt steht in der **[Make-Ausgabe x/yy ab Seite z](https://www.heise.de/select/make/xxx)**.
+Der vollständige Artikel zum Projekt steht in der **[Make-Ausgabe 6/26](https://www.heise.de/select/make/2026/6)**.
