@@ -8,7 +8,7 @@ Maker Media GmbH
 
 **Für eine gleichmäßige Ausleuchtung reicht eine einzelne Lichtquelle oft nicht aus. Ich habe mir deshalb eine Deckenleuchte aus sechs einzeln schaltbaren LED-Röhren gebaut, die sich verschieben und sogar abnehmen lassen.**
 
-![Aufmacherbild aus dem Heft](./doc/Aufmacher.JPG)
+![Aufmacherbild aus dem Heft](./doc/arbeitsleuchte_quer.jpg)
 
 Hier liegen die 3D-Druckdaten für den Schaltkasten.
 
